@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Lidar-Koma.github.io/courses-app/static/css/main.898343d8.css",
-    "main.js": "/Lidar-Koma.github.io/courses-app/static/js/main.ab2f012d.js",
-    "static/js/787.b5cbef3d.chunk.js": "/Lidar-Koma.github.io/courses-app/static/js/787.b5cbef3d.chunk.js",
-    "index.html": "/Lidar-Koma.github.io/courses-app/index.html",
-    "main.898343d8.css.map": "/Lidar-Koma.github.io/courses-app/static/css/main.898343d8.css.map",
-    "main.ab2f012d.js.map": "/Lidar-Koma.github.io/courses-app/static/js/main.ab2f012d.js.map",
-    "787.b5cbef3d.chunk.js.map": "/Lidar-Koma.github.io/courses-app/static/js/787.b5cbef3d.chunk.js.map"
+    "main.css": "/courses-app/static/css/main.898343d8.css",
+    "main.js": "/courses-app/static/js/main.01cd5b25.js",
+    "static/js/787.b5cbef3d.chunk.js": "/courses-app/static/js/787.b5cbef3d.chunk.js",
+    "index.html": "/courses-app/index.html",
+    "main.898343d8.css.map": "/courses-app/static/css/main.898343d8.css.map",
+    "main.01cd5b25.js.map": "/courses-app/static/js/main.01cd5b25.js.map",
+    "787.b5cbef3d.chunk.js.map": "/courses-app/static/js/787.b5cbef3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.898343d8.css",
-    "static/js/main.ab2f012d.js"
+    "static/js/main.01cd5b25.js"
   ]
 }
